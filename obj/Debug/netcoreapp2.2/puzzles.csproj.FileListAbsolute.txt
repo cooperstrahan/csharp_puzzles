@@ -1,0 +1,11 @@
+/Users/cooperstrahan/Documents/Coding_Dojo/puzzles/bin/Debug/netcoreapp2.2/puzzles.deps.json
+/Users/cooperstrahan/Documents/Coding_Dojo/puzzles/bin/Debug/netcoreapp2.2/puzzles.runtimeconfig.json
+/Users/cooperstrahan/Documents/Coding_Dojo/puzzles/bin/Debug/netcoreapp2.2/puzzles.runtimeconfig.dev.json
+/Users/cooperstrahan/Documents/Coding_Dojo/puzzles/bin/Debug/netcoreapp2.2/puzzles.dll
+/Users/cooperstrahan/Documents/Coding_Dojo/puzzles/bin/Debug/netcoreapp2.2/puzzles.pdb
+/Users/cooperstrahan/Documents/Coding_Dojo/puzzles/obj/Debug/netcoreapp2.2/puzzles.csprojAssemblyReference.cache
+/Users/cooperstrahan/Documents/Coding_Dojo/puzzles/obj/Debug/netcoreapp2.2/puzzles.csproj.CoreCompileInputs.cache
+/Users/cooperstrahan/Documents/Coding_Dojo/puzzles/obj/Debug/netcoreapp2.2/puzzles.AssemblyInfoInputs.cache
+/Users/cooperstrahan/Documents/Coding_Dojo/puzzles/obj/Debug/netcoreapp2.2/puzzles.AssemblyInfo.cs
+/Users/cooperstrahan/Documents/Coding_Dojo/puzzles/obj/Debug/netcoreapp2.2/puzzles.dll
+/Users/cooperstrahan/Documents/Coding_Dojo/puzzles/obj/Debug/netcoreapp2.2/puzzles.pdb
